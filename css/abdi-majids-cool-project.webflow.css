@@ -5482,8 +5482,10 @@ figcaption {
 }
 
 .div-block-12 {
-  min-height: 250px;
-  background-color: #f0f3f5;
+  height: 325px;
+  background-color: white;
+  
+  
 }
 
 .image-20 {
