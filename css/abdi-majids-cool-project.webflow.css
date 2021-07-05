@@ -2722,6 +2722,8 @@ figcaption {
   transition: background-color 200ms ease;
   text-align: center;
   text-decoration: none;
+  display: none;
+  visibility: hidden;
 }
 
 .preview-button:hover {
