@@ -2524,6 +2524,7 @@ figcaption {
   width: 13%;
   margin-right: 10px;
   margin-left: auto;
+  margin-top: -200px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -7736,7 +7737,7 @@ figcaption {
   }
 
   .content-section-blue {
-    padding-top: 50px;
+    padding-top: 0px;
   }
 
   ._44-percent-column {
@@ -7745,8 +7746,9 @@ figcaption {
 
   .quote-box {
     max-width: 100%;
-    margin-top: 0px;
+    margin-top: 60px;
     margin-bottom: 20px;
+    margin-right: 25px;
   }
 
   .h3-big-white {
