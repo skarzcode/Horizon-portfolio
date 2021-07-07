@@ -4892,7 +4892,8 @@ figcaption {
 }
 
 .heading-2 {
-  color: #495058;
+  margin-top: -10px;
+  color: #FD4737;
 }
 
 .heading-3 {
@@ -5510,6 +5511,7 @@ figcaption {
   width: 100%;
   min-width: 100%;
   padding-top: 0px;
+ 
 }
 
 .project2 {
@@ -5568,6 +5570,7 @@ figcaption {
 .store-name {
   color: #69707b;
   font-size: 20px;
+  margin-top: 25px;
 }
 
 .store-description {
