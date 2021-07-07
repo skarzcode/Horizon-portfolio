@@ -6893,6 +6893,12 @@ figcaption {
     line-height: 13px;
   }
 
+  .homepage-button {
+    top: 100%;
+    left: 20%;
+    margin:0px;
+  }
+
   .footer-expand {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -7731,7 +7737,7 @@ figcaption {
 
   .homepage-button {
     top: 90%;
-    left: -20%;
+    left: 0%;
     
   }
   
