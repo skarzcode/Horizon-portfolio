@@ -5236,10 +5236,10 @@ figcaption {
 .heading-6 {
   position: absolute;
   top: 89px;
-  right: 53px;
+  right: 60px;
   padding-right: 4px;
   font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
-  color: #004aa9;
+  color: #004AA9;
 }
 
 .paragraph-2 {
@@ -5251,7 +5251,7 @@ figcaption {
   padding-bottom: 0px;
   opacity: 1;
   font-family: Merriweather, serif;
-  color: #000;
+  color:black;
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
@@ -5277,6 +5277,7 @@ figcaption {
   padding-top: 0px;
   padding-right: 14px;
   padding-bottom: 6px;
+  color: #004AA9;
 }
 
 .image-14 {
@@ -5291,6 +5292,7 @@ figcaption {
   left: 19px;
   top: 90px;
   padding-right: 14px;
+  color: #004AA9;
 }
 
 .image-15 {
@@ -5741,7 +5743,7 @@ figcaption {
   padding-left: 30px;
   border-radius: 14px;
   background-color: #818c99;
-  box-shadow: 11px 11px 15px 3px #000;
+  box-shadow: 11px 11px 11px 1px grey;
 }
 
 .service2 {
@@ -5755,7 +5757,7 @@ figcaption {
   padding-right: 0px;
   border-radius: 14px;
   background-color: #818c99;
-  box-shadow: 11px 11px 15px 3px #000;
+  box-shadow: 11px 11px 11px 1px grey;
 }
 
 .service3 {
@@ -5769,8 +5771,9 @@ figcaption {
   padding-right: 0px;
   border-radius: 14px;
   background-color: #818c99;
-  box-shadow: 11px 11px 15px 3px #000;
+  box-shadow: 11px 11px 11px 1px grey;
 }
+
 
 .service4 {
   position: relative;
@@ -5783,8 +5786,9 @@ figcaption {
   padding-right: 0px;
   border-radius: 14px;
   background-color: #818c99;
-  box-shadow: 11px 11px 15px 3px #000;
+  box-shadow: 11px 11px 11px 1px grey;
 }
+
 
 .image-19-copy {
   opacity: 1;
