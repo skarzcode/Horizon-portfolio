@@ -1561,6 +1561,7 @@ figcaption {
   max-width: 428px;
   margin-top: 100px;
   margin-bottom: 100px;
+  margin-right: 50px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -1777,7 +1778,9 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  height: 400px;
 }
+
 
 .max-367-pixels {
   width: 100%;
@@ -2533,11 +2536,12 @@ figcaption {
 
 .side-text {
   position: absolute;
+  margin-top: 320px;
   -webkit-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
   font-family: Inter, sans-serif;
-  color: #d9e1eb;
+  color: #FE3F2F;
   font-size: 100px;
   font-weight: 600;
   letter-spacing: -2px;
@@ -5650,12 +5654,14 @@ figcaption {
 
 .heading-9 {
   font-size: 50px;
+  color: #FE3F2F;
 }
 
 .paragraph-3 {
   width: 75%;
   margin-top: 18px;
   margin-left: 158px;
+  color: #000;
 }
 
 .video-2 {
@@ -5989,9 +5995,13 @@ figcaption {
 .homepage-button {
   margin-top: 0px;
   margin-left: 140px;
-  border-radius: 19px;
+  border-radius: 10px;
   background-color: #69707b;
   font-size: 24px;
+  position:absolute ;
+  top: 70%;
+  left: -14%;
+  
 }
 
 @media screen and (min-width: 1280px) {
