@@ -7729,6 +7729,13 @@ figcaption {
     margin-left: -6px;
   }
 
+  .homepage-button {
+    top: 90%;
+    left: -20%;
+    
+  }
+  
+
   .max-495-pixels {
     margin-top: 43px;
     margin-left: 47px;
